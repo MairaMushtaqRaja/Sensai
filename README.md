@@ -31,3 +31,4 @@ A modern, full-stack AI-powered platform that helps users build job-winning **re
 | 💽 Database | NeonDB (PostgreSQL) via Prisma ORM |
 | 🌍 Hosting | Vercel |
 ---
+Live Demo:Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
