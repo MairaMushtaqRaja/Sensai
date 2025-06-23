@@ -2,7 +2,7 @@
 
 A modern, full-stack AI-powered platform that helps users build job-winning **resumes**, generate **custom cover letters**, and **prepare for interviews** — all in one place. Built with cutting-edge tech: **React 19**, **Next.js 15**, **Gemini AI**, and **Clerk**.
 
-> 🚀 A perfect project to impress recruiters and showcase real-world full stack capabilities!
+
 
 ---
 
